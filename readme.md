@@ -47,7 +47,7 @@ calculator/
 
 ## 🌐 Live Demo
 
-http://127.0.0.1:5501/index.html
+https://mohdhi5253.github.io/Calculator/
 
 ---
 
